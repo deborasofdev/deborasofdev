@@ -1,4 +1,4 @@
-## Olá, eu sou a Debora! 👩‍💻
+## Olá, eu sou a Debora! 👩🏻‍💻
 
 Sou formada em Ciências Contábeis e atualmente cursando Tecnologia da Informação. Fiz transição da área financeira para dados e hoje atuo com entrega, tratamento e enriquecimento de dados, apoiando a tomada de decisão.
 
@@ -27,5 +27,5 @@ Busco me desenvolver como Engenheira de Dados, com foco em:
 - Modelagem e arquitetura de dados
 
 ### Como me encontrar:
-- 📧 [E-mail](mailto:deboracavalcante41@://gmail.com)
+- 📧 [E-mail](mailto:deboracavalcante41@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/debora-cavalcante/)
