@@ -1,16 +1,31 @@
-## Hi there 👋
+##Olá, eu sou a Debora! 👩‍💻
 
-<!--
-**deborasofdev/deborasofdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou formada em Ciências Contábeis e atualmente curso Tecnologia da Informação. Fiz a transição da área financeira para dados e hoje atuo com entrega, tratamento e enriquecimento de dados, apoiando a tomada de decisão.
 
-Here are some ideas to get you started:
+Habilidades & Ferramentas
+•Processamento, tratamento e enriquecimento de dados
+•Construção de pipelines ETL com SSIS
+•SQL Server (consultas, joins, manipulação de dados)
+•Python (Pandas) para limpeza e transformação de dados
+•Automação de rotinas e cargas (batch)
+•Visualização de dados com Power BI, Tableau e Metabase
+•Excel Avançado e SAP
+•Versionamento com Git/GitHub
+•Documentação e padronização de processos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Projeto em Destaque 
+•[Análise e Tratamento de Dados com Python](https://github.com/deborasofdev/analise-vendas-pandas)
+
+
+Objetivo Profissional
+
+Busco me desenvolver como Engenheira de Dados, com foco em:
+•Pipelines de dados escaláveis
+•Cloud (AWS / Azure)
+•Automação de processos
+•Modelagem e arquitetura de dados
+
+Como me encontrar:
+📧 [E-mail](deboracavalcante41@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/debora-cavalcante/)
