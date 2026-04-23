@@ -1,8 +1,8 @@
-##Olá, eu sou a Debora! 👩‍💻
+## Olá, eu sou a Debora! 👩‍💻
 
 Sou formada em Ciências Contábeis e atualmente curso Tecnologia da Informação. Fiz a transição da área financeira para dados e hoje atuo com entrega, tratamento e enriquecimento de dados, apoiando a tomada de decisão.
 
-Habilidades & Ferramentas
+### Habilidades & Ferramentas
 •Processamento, tratamento e enriquecimento de dados
 •Construção de pipelines ETL com SSIS
 •SQL Server (consultas, joins, manipulação de dados)
@@ -14,11 +14,11 @@ Habilidades & Ferramentas
 •Documentação e padronização de processos
 
 
-Projeto em Destaque 
-•[Análise e Tratamento de Dados com Python](https://github.com/deborasofdev/analise-vendas-pandas)
+### Projeto em Destaque 
+- •[Análise e Tratamento de Dados com Python](https://github.com/deborasofdev/analise-vendas-pandas)
 
 
-Objetivo Profissional
+### Objetivo Profissional
 
 Busco me desenvolver como Engenheira de Dados, com foco em:
 •Pipelines de dados escaláveis
@@ -26,6 +26,6 @@ Busco me desenvolver como Engenheira de Dados, com foco em:
 •Automação de processos
 •Modelagem e arquitetura de dados
 
-Como me encontrar:
-📧 [E-mail](deboracavalcante41@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/debora-cavalcante/)
+### Como me encontrar:
+- 📧 [E-mail](deboracavalcante41@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/debora-cavalcante/)
