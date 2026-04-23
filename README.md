@@ -27,5 +27,5 @@ Busco me desenvolver como Engenheira de Dados, com foco em:
 - Modelagem e arquitetura de dados
 
 ### Como me encontrar:
-- 📧 [E-mail](deboracavalcante41@gmail.com)
+- 📧 [E-mail](mailto:deboracavalcante41@://gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/debora-cavalcante/)
