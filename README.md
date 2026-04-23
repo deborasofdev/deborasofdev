@@ -1,6 +1,6 @@
 ## Olá, eu sou a Debora! 👩‍💻
 
-Sou formada em Ciências Contábeis e atualmente curso Tecnologia da Informação. Fiz a transição da área financeira para dados e hoje atuo com entrega, tratamento e enriquecimento de dados, apoiando a tomada de decisão.
+Sou formada em Ciências Contábeis e atualmente cursando Tecnologia da Informação. Fiz transição da área financeira para dados e hoje atuo com entrega, tratamento e enriquecimento de dados, apoiando a tomada de decisão.
 
 ### Habilidades & Ferramentas
 •Processamento, tratamento e enriquecimento de dados
@@ -15,7 +15,7 @@ Sou formada em Ciências Contábeis e atualmente curso Tecnologia da Informaçã
 
 
 ### Projeto em Destaque 
-- •[Análise e Tratamento de Dados com Python](https://github.com/deborasofdev/analise-vendas-pandas)
+- [Análise e Tratamento de Dados com Python](https://github.com/deborasofdev/analise-vendas-pandas)
 
 
 ### Objetivo Profissional
